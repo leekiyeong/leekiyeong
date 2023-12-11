@@ -11,9 +11,9 @@
 
   <hr><summary><b>🏅 Certifications</b></summary><br>
   
-  - **Information Processing Engineer(Nov, 2022)**
-  - **Computer Proficiency Test Level 1(Feb, 2023)**
-  - **SQLD Certification(Nov, 2023)**
+  - **Information Processing Engineer, Nov, 2022**
+  - **Computer Proficiency Test Level 1, Feb 2023**
+  - **SQLD Certification, Nov 2023**
   - **Korean History Qualification (Advanced)**
   - **Driver's License**
   
@@ -48,10 +48,12 @@
   [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
- 
-  <summary>👀<b>Future Plans</b></summary>
 
-  <summary>:telephone_receiver:<b>Contact</b></summary>
+  <hr><summary>🚀 <b>Project Experience</b></summary>
+   
+  <hr><summary>👀 <b>Future Plans</b></summary>
+
+  <hr><summary>:telephone_receiver: <b>Contact</b></summary>
 
  
 
