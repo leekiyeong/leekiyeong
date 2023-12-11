@@ -1,6 +1,6 @@
-### 반갑습니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
+### HELLO! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
-<font face="Comic Sans MS"><b>저는 백엔드 웹 개발자로서 다양한 기술을 사용하는 이기영입니다.</b></font>
+<font face="Comic Sans MS"><b>I am Kiyeong Lee, a backend web developer with expertise in utilizing various technologies.</b></font>
 
   <hr><summary><b>📚 Education</b></summary><br>
   
