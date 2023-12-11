@@ -50,10 +50,27 @@
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
   <hr><summary>🚀 <b>Project Experience</b></summary>
-   
-  <hr><summary>👀 <b>Future Plans</b></summary>
+  
+  ### We'll Capture Your Moments: [Project PhotoZone]
+  - **Role:** Developer
+  - **Duration:** August 2023 - September 2023
+  - **Description:** Collaborated within a team to craft a web application for an [Intuitive Location-Based Photo Sharing Service]. Led the implementation of a dynamic [Real-time Location Registration and Photo Sharing Feature using Naver Maps API with PIN_Point], working closely with [one colleague] to ensure the seamless completion of the project.
+  
+  ### Effortless and Swift Car Rental Experience: [Project KYRentCar] 
+  - **Role:** Developer
+  - **Duration:** July 2023 - August 2023
+  - **Description:** Developed a user-centric rental car reservation website. Implemented synchronous communication between the server and data, and successfully completed the project [alone].
 
-  <hr><summary>:telephone_receiver: <b>Contact</b></summary>
+  <hr><summary>👀 <b>Future Plans</b></summary><br>
+  
+  **To become a growing developer in the future, my plans include consistently learning new technologies and tools, actively seeking creative and effective solutions to diverse challenges in the industry. I aim to enhance my expertise by remaining open-minded, enjoying collaboration with team members, and fostering communication and knowledge sharing. My goal is to evolve into a developer who not only solves problems but also grows together with the team.**
+  
+  <hr><summary>:telephone_receiver: <b>Contact</b></summary><br>
+  
+  - **Phone: [010-5246-6988]**
+  - **Email: [pyocosss@naver.com]**
+  
+  
 
  
 
