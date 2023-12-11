@@ -11,7 +11,7 @@
 
   <hr><summary><b>🏅 Certifications</b></summary><br>
   
-  - **Information Processing Engineer, Nov, 2022**
+  - **Information Processing Engineer, Nov 2022**
   - **Computer Proficiency Test Level 1, Feb 2023**
   - **SQLD Certification, Nov 2023**
   - **Korean History Qualification (Advanced)**
