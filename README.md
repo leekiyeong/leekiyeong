@@ -2,7 +2,17 @@
 
 <font face="Comic Sans MS"><b>저는 백엔드 웹 개발자로서 다양한 기술을 사용하는 이기영입니다.</b></font>
 
-<summary>📚</summary>
+<details>
+  <summary>📚<b>Education</b></summary>
+  
+</details>
+
+<details>
+  <summary>🏅<b>Certifications</b></summary>
+</details>
+
+<details>
+<summary><b>📚Skills</b></summary>
 
 #### Front-end
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -32,3 +42,19 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+</details>
+
+<details>
+  <summary>✏<b>Study Background</b></summary>
+</details>
+
+<details>
+  <summary>👀<b>Future Plans</b></summary>
+</details>
+
+<details>
+  <summary>:telephone_receiver:<b>Contact</b></summary>
+</details>
+ 
+
+
