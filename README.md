@@ -2,12 +2,12 @@
 
 <font face="Comic Sans MS"><b>저는 백엔드 웹 개발자로서 다양한 기술을 사용하는 이기영입니다.</b></font>
 
-  <hr><summary>📚<b>Education</b></summary><br>
+  <hr><summary><b>📚 Education</b></summary><br>
   
   - **Kangwon National University(Department of Electrical and Electronic Engineering)**
   - **NCS-based Java Full Stack Development Course Completion**
   
-  </hr>
+
 
   <hr><summary><b>🏅 Certifications</b></summary><br>
   
@@ -16,10 +16,8 @@
   - **SQLD Certification(Nov, 2023)**
   - **Korean History Qualification (Advanced)**
   - **Driver's License**
-    
-  <hr>
-
-  <summary><b>📚Skills</b></summary>
+  
+  <hr><summary><b>🛠 Skills</b></summary>
 
   #### Front-end
   [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -44,14 +42,13 @@
   [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
   [![JPA](https://img.shields.io/badge/JPA-663399?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html)
   [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/)
+  [![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
   
   #### IDE
   [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  
-  <summary>✏<b>Study Background</b></summary>
-
+ 
   <summary>👀<b>Future Plans</b></summary>
 
   <summary>:telephone_receiver:<b>Contact</b></summary>
