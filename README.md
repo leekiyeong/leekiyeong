@@ -45,7 +45,6 @@
   #### Server
   [![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)](http://tomcat.apache.org/)
   [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
  
   #### Development Tools
   [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
@@ -54,8 +53,16 @@
 
   #### Framework
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
   [![eGovFramework](https://img.shields.io/badge/eGovFramework-5E4693?style=for-the-badge&logoColor=white)](https://www.egovframe.go.kr/)
-  
+
+  #### Version Control
+  [![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=apache-subversion&logoColor=white)](https://subversion.apache.org/)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+  #### Testing tools
+  [![ngrok](https://img.shields.io/badge/ngrok-1A1A1A?style=for-the-badge&logo=ngrok&logoColor=00FF8C)](https://ngrok.com/)
+
   <hr><summary>🚀 <b>Project Experience</b></summary>
   
   ### We'll Capture Your Moments: [Project PhotoZone]
