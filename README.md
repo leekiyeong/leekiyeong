@@ -75,6 +75,11 @@
   - **Duration:** July 2023 - August 2023
   - **Description:** Developed a user-centric rental car reservation website. Implemented synchronous communication between the server and data, and successfully completed the project [alone].
 
+  ### Agricultural Commodity Price Comparison Platform: [Project AF] 
+  - **Role:** Developer
+  - **Duration:** December 2023 - January 2024
+  - **Description:** Spearheaded the development of a web platform facilitating real-time comparison of agricultural commodity prices. Leveraged the KAMIS API service to bridge information disparities between agricultural producers and consumers. Implemented features for seamless data retrieval and display to enhance transparency in the agricultural market.
+
   <hr><summary>👀 <b>Future Plans</b></summary><br>
   
   **To become a growing developer in the future, my plans include consistently learning new technologies and tools, actively seeking creative and effective solutions to diverse challenges in the industry. I aim to enhance my expertise by remaining open-minded, enjoying collaboration with team members, and fostering communication and knowledge sharing. My goal is to evolve into a developer who not only solves problems but also grows together with the team.**
